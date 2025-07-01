@@ -1,0 +1,23 @@
+{
+  "name": "leirisonda-obras",
+  "version": "1.0.0",
+  "description": "Sistema de gestão de obras e manutenção de piscinas da Leirisonda",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "http-server leirisonda-deploy -p 3000"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "vite": "^4.4.5",
+    "http-server": "^14.1.1"
+  }
+}
