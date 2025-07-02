@@ -1,7 +1,7 @@
 {
   "name": "leirisonda-obras",
   "version": "1.0.0",
-  "description": "Sistema de gestão de obras e manutenção de piscinas da Leirisonda",
+  "description": "Gestor de obras e manutenção de piscinas da Leirisonda",
   "type": "module",
   "scripts": {
     "dev": "vite",
